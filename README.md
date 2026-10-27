@@ -1,2 +1,2 @@
-# proj_GHP_Samuel_Arias_Posada
+# Taller-GHP-2369625
 Repositorio para proyecto de desarrollo 
